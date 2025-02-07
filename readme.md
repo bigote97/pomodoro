@@ -22,7 +22,7 @@ Esta aplicación se inspira en [Pomofocus](https://pomofocus.io/), una herramien
 2. Navega al directorio del proyecto:
 
    ```bash
-   Copiar
+   cd pomodoro
 
 3. Abre el archivo index.html en tu navegador para utilizar la aplicación.
 
