@@ -21,8 +21,8 @@ Esta aplicación se inspira en [Pomofocus](https://pomofocus.io/), una herramien
    git clone https://github.com/bigote97/pomodoro.git
 2. Navega al directorio del proyecto:
 
-bash
-Copiar
+   ```bash
+   Copiar
 
 3. Abre el archivo index.html en tu navegador para utilizar la aplicación.
 
